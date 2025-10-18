@@ -1,4 +1,4 @@
-# 🇧🇴 Juego de Preguntas: Independencia de Bolivia
+# 🇧🇴 Juego de Preguntas: Independencia de Bolivia GUERRA
 
 ## 📖 Descripción del Sistema
 
@@ -172,11 +172,3 @@ El juego busca:
 | **Plataformas compatibles** | Windows, Mac, Linux |
 
 ---
-
-## ✅ Requisitos del Sistema
-
-- GameMaker Studio 2 instalado
-- Mínimo 500 MB de espacio disponible
-- Pantalla de al menos 800x600 píxeles
-- Teclado (para ingresar respuestas)
-- Ratón (opcional, para hacer clic en botones)
